@@ -4,7 +4,7 @@ terraform {
     organization = "hackCompany"
 
     workspaces {
-      name = "tfc-aws-rds"
+      name = "tfc-aws-rds-hack"
     }
   }
 
