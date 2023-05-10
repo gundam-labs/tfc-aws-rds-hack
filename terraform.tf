@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-    organization = "organization-name"
+    organization = "hackCompany"
 
     workspaces {
-      name = "learn-terraform-cloud"
+      name = "rds-aws-hack"
     }
   }
 
